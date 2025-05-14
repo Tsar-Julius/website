@@ -1,0 +1,14 @@
+HTTrack3.49-2 launched on Wed, 14 May 2025 18:16:31 at https://stevenbartlett.com/doac/
+(httrack https://stevenbartlett.com/doac/ -O /Users/alexanderjulius/Desktop/steven-clone -%v )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+18:16:37	Error: 	"Not Found" (404) at link https://stevenbartlett.com/doac/terms-conditions.html (from https://stevenbartlett.com/doac/)
+18:16:37	Error: 	"Not Found" (404) at link https://stevenbartlett.com/doac/privacy-policy.html (from https://stevenbartlett.com/doac/)
+18:16:37	Error: 	"Not Found" (404) at link https://stevenbartlett.com/doac/cookie-policy.html (from https://stevenbartlett.com/doac/)
+
+HTTrack Website Copier/3.49-2 mirror complete in 6 seconds : 5 links scanned, 1 files written (29792 bytes overall), 1 files updated [37379 bytes received at 6229 bytes/sec], 122417 bytes transferred using HTTP compression in 4 files, ratio 27%, 2.5 requests per connection
+(3 errors, 0 warnings, 0 messages)
